@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說法受塵經
+#+DATE: 2015-08-30 20:21:00.256817
+#+PROPERTY: JUAN 0
