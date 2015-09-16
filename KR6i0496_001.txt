@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:00.047389
+#+DATE: 2015-08-30 20:21:00.522416
 #+TITLE: 佛說法受塵經
 #+PROPERTY: CBETA_ID T17n0792
 #+PROPERTY: ID KR6i0496
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 792
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6i0496_T_000-0736c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0496_T_001-0736c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.792¶
-
- 《佛說法受塵經》¶
+No. 792¶
+《佛說法受塵經》¶
 ¶
-後漢安息國三藏安世高譯¶
+後漢沙門安世高譯¶
 
 聞如是：
 
@@ -37,9 +36,9 @@ No.792¶
 
 「又復，諸比丘！凡人為法，¶
 受塵自污，迷惑憂愁，沒而無際，吾見其不得¶
-無上吉祥之道。如婬女欲見男子色，是以好¶
+無上吉祥之道。如婬女欲見男子好¶
 色之女，為染、為醉、為貪、為污、為惑、為著、為住、¶
-為受，為士色故，長久趨走往來受苦。耳常¶
+為受，當為士色故，長久趨走往來受苦。耳常¶
 欲聞男子之聲，鼻欲聞其香，舌欲得其味，身¶
 欲更其細滑，是以長久趨走往來受苦。是故，¶
 不當為士色、聲、香、味、細滑所染惑也，當覺知¶
