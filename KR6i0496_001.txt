@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:00.047389
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:46
 #+TITLE: 佛說法受塵經
 #+PROPERTY: CBETA_ID T17n0792
 #+PROPERTY: ID KR6i0496
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 792
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0496_T_000-0736c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0496_T_001-0736c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.792¶
-
- 《佛說法受塵經》¶
+No. 792¶
+《佛說法受塵經》¶
 ¶
 後漢安息國三藏安世高譯¶
 
